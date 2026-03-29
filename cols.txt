@@ -1,0 +1,9 @@
+['square_002um', 'square_008um', 'square_016um', 'cell_id', 'in_nucleus', 'in_cell']
+            square_002um  ... in_cell
+0  s_002um_00000_00000-1  ...   False
+1  s_002um_00000_00001-1  ...   False
+2  s_002um_00000_00002-1  ...   False
+3  s_002um_00000_00003-1  ...    True
+4  s_002um_00000_00004-1  ...    True
+
+[5 rows x 6 columns]

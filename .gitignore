@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Large datasets and generated arrays
+data/
+data300/
+hest1k-dataset/
+*.npy
+*.npz
+*.h5
+*.h5ad
+*.parquet
+*.tif
+*.tiff
+
+# Model artifacts
+models/
+*.pth
+*.pt
+
+# Notebook-side experiment outputs
+parsed_notebook.txt
+parsed_code.py
